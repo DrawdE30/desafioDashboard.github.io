@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/static/css/main.5c2bd0e0.css",
-    "main.js": "/static/js/main.8907bd61.js",
-    "static/js/453.beffd5ed.chunk.js": "/static/js/453.beffd5ed.chunk.js",
-    "index.html": "/index.html",
-    "main.5c2bd0e0.css.map": "/static/css/main.5c2bd0e0.css.map",
-    "main.8907bd61.js.map": "/static/js/main.8907bd61.js.map",
-    "453.beffd5ed.chunk.js.map": "/static/js/453.beffd5ed.chunk.js.map"
+    "main.css": "/desafioDashboard.github.io/static/css/main.5c2bd0e0.css",
+    "main.js": "/desafioDashboard.github.io/static/js/main.8dbb711e.js",
+    "static/js/453.beffd5ed.chunk.js": "/desafioDashboard.github.io/static/js/453.beffd5ed.chunk.js",
+    "index.html": "/desafioDashboard.github.io/index.html",
+    "main.5c2bd0e0.css.map": "/desafioDashboard.github.io/static/css/main.5c2bd0e0.css.map",
+    "main.8dbb711e.js.map": "/desafioDashboard.github.io/static/js/main.8dbb711e.js.map",
+    "453.beffd5ed.chunk.js.map": "/desafioDashboard.github.io/static/js/453.beffd5ed.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.5c2bd0e0.css",
-    "static/js/main.8907bd61.js"
+    "static/js/main.8dbb711e.js"
   ]
 }
